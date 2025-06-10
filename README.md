@@ -26,15 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmaydwivedi9161&show_icons=true&theme=tokyonight" alt="Tanmay's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaydwivedi9161&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanmaydwivedi691/)
