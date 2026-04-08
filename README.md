@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tanmay Dwivedi</h1>
-<h3 align="center">🚀 MCA Student at Manipal University Jaipur | 👨‍💻 Web Developer | 📍 Based in Kanpur</h3>
+<h3 align="center">🚀 Manipal University Jaipur | 👨‍💻 Web Developer | 📍 Based in Kanpur</h3>
 
 ---
 
 ### 🧠 About Me
 
-- 👨‍🎓 I'm currently pursuing MCA from **Manipal University Jaipur**
-- 💻 Passionate about **web development** and building real-world projects
+- 👨‍🎓 Recently Completed MCA from **Manipal University Jaipur**
+- 💻 Passionate about **Web development** and building real-world projects
 - 🤖 Exploring **Artificial Intelligence** and **Machine Learning** in my free time
 - 🌐 Always curious to learn and grow in the field of **tech and development**
 
